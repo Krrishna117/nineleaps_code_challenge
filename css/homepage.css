@@ -1,0 +1,74 @@
+.section_class{
+	margin-top: 80px;
+	padding: 50px 0;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.heading_h2{
+	font-size: 28px;
+	color: #404040;
+	letter-spacing: 1.93px;
+	font-weight: 400;
+	text-align: center;
+}
+.img_svg{
+	height: 45px;
+	margin-bottom: 0px;
+}
+.heading_h3{
+	font-size: 28px;
+	font-weight: 700;
+	background: #17ead8;
+	background: -moz-linear-gradient(left, #17ead8 0%, #6077ea 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, #17ead8), color-stop(100%, #6077ea));
+	background: -webkit-linear-gradient(left, #17ead8 0%, #6077ea 100%);
+	background: -o-linear-gradient(left, #17ead8 0%, #6077ea 100%);
+	background: -ms-linear-gradient(left, #17ead8 0%, #6077ea 100%);
+	background: linear-gradient(to right, #17ead8 0%, #6077ea 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#17ead8', endColorstr='#6077ea', GradientType=1 );
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.paraClass{
+	color: #656565;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+}
+.sectionRows{
+	margin-top: 30px;
+}
+.whySpan{
+	border-bottom: 3px solid #f78181;
+}
+.insideCol{
+	margin-left: 10px;
+}
+.navbarNavTag{
+	background-color: #ffffff;
+	border-color: #ffffff;
+	height: 75px;
+}
+.logoClass{
+	max-width: 150px;
+	max-height: 180px;
+}
+.navAnchor{
+	font-color: #404040;
+}
+.navUl{
+	margin-top: 10px;	
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #000000;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+	color: #000000;
+	background-color: #4c91e2;
+	border-radius: 6px;
+}
+.homeAnchor{
+	color: #000000;
+    text-align: center;
+}
